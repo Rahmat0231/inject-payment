@@ -7,9 +7,8 @@ mitmproxy>=10.0.0
 h2>=4.1.0
 hyperframe>=6.0.1
 wsproto>=1.2.0
-Security & Encryption (Required for SSL Interception)
+# Security & Encryption (Required for SSL Interception)
 cryptography>=42.0.0
 pyOpenSSL>=24.0.0
-# Utilities
 pyperclip>=1.8.2
 certifi>=2024.2.
